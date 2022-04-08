@@ -1,0 +1,8 @@
+spirng:
+  h2:
+    consol:
+      enabled: true
+      datasource:
+        url: jdbc:h2:mem:testdb
+server:
+   port: 9292
